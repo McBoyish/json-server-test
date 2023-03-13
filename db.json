@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Item1",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "placeholder",
+      "stock": -8,
+      "type": "ACCESSORY"
+    },
+    {
+      "id": 2,
+      "name": "Item2",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "placeholder",
+      "stock": 59,
+      "type": "ACCESSORY"
+    },
+    {
+      "id": 3,
+      "name": "Item3",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "placeholder",
+      "stock": 3,
+      "type": "FOOD"
+    },
+    {
+      "id": 4,
+      "name": "Item4",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "placeholder",
+      "stock": 10,
+      "type": "ACCESSORY"
+    },
+    {
+      "id": 5,
+      "name": "Item5",
+      "imgUrl": "https://i.postimg.cc/rw5ZbdZW/HNI-0026.jpg",
+      "description": "placeholder",
+      "stock": 19,
+      "type": "TECH"
+    }
+  ]
+}
